@@ -2,7 +2,7 @@ var image = document.querySelectorAll("img");
 
 image.forEach((e)=>{
     e.addEventListener("mouseover", (e)=>{
-        e.target.src = `images/${e.target.id}_2.jpg;`
+        e.target.src = `images/${e.target.id}_2.jpg`
     });
 } )
 
