@@ -52,12 +52,12 @@
 
 ## Step 6 : External files and Simple Math
 
-1. Create a separate javascript file
-2. Include it in the html
-3. Have the user provide two numbers
-4. Divide them
-5. Show the user the remainder of the division
-6. Commit
+   1. Create a separate javascript file
+1. Include it in the html
+2. Have the user provide two numbers
+3. Divide them
+4. Show the user the remainder of the division
+5. Commit
 
 ## Step 7 : Multiple operations
 
